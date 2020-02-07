@@ -34,4 +34,4 @@ Example region V3 virulence reduction:
 
 # Gratitude
 Institute of Bioinformatics, as well as supervisor Tsvetkov V.O. for the opportunity to work on the project, 
-as well as A. Kravtsev for help and discussion.
+as well as A. Kravets for help and discussion.
